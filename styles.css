@@ -1,7 +1,5 @@
 .holder{
-	grid:repeat()200px;
 	grid:200px;
-	grid-row:200px;
-	grid-row:200px;
+	
 }
 /* Your CSS Code here. */
